@@ -26,6 +26,7 @@
     "eslint-plugin-promise": "^6.1.1"
   },
   "dependencies": {
+    "nanoid": "^3.0.0",
     "nodemon": "^2.0.20"
   }
 }
